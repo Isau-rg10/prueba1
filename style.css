@@ -458,10 +458,10 @@ body {
     margin-top: 50px;
   }
   .slider-txt h1{
-    font-size: 50px;
+    font-size: 40px;
   }
   .slider-txt p{
-    font-size: 16px;
+    font-size: 15px;
   }
   .btn-1{
     padding: 10px 25px;
@@ -484,9 +484,10 @@ body {
   }
   
   .tabs{
-    padding: 50px 30px;
+    padding: 50px 15px;
   }
   .tabs label{
+    font-size: 12px;
     width: 33%;
   }
   .info{
